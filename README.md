@@ -112,3 +112,9 @@ LIMIT 10
 - Selecione o arquivo Emissions Dashboard.lvdash.json.
 
 - Conecte o dataset à tabela que você criou.
+
+## 🖼️ Visualizações do Dashboard
+
+| Mapa de Localização das Emissões | Relação Localização vs População |
+|:---:|:---:|
+| ![Dashboard](img/DataLocation.png) | ![Dashboard](img/LocationVSpopulation) |
