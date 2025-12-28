@@ -99,7 +99,7 @@ LIMIT 10
 
 ## ⚙️ Como Utilizar este Repositório 
 
-1. No Databricks: Faça o upload do arquivo em src/Emissions_Data_2023.csv para um Volume do Unity Catalog ou DBFS.
+1. No Databricks: Faça o upload do arquivo em ```src/Emissions_Data_2023.csv``` para um Volume do Unity Catalog ou DBFS.
 
 2. Criação da Tabela: Crie uma tabela Delta a partir do CSV.
 
